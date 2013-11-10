@@ -1,0 +1,19 @@
+models/hydrogen.model	models/hydrogen.model	LODSwitchDistances=
+models/oxygen.model	models/oxygen.model	LODSwitchDistances=
+meshes/modular_floor01.vcolmesh	meshes/modular_floor01.vcolmesh	
+meshes/modular_floor01.vmesh	meshes/modular_floor01.vmesh	LODSwitchDistances=
+models/mainlens.dds	models/mainlens.dds	sRGB=false
+particles/bubble_1.dds	particles/bubble_1.dds	sRGB=false
+particles/flare_1.dds	particles/flare_1.dds	sRGB=false
+particles/flare_4.dds	particles/flare_4.dds	sRGB=false
+particles/flaregroup.dds	particles/flaregroup.dds	sRGB=false
+particles/fog_group.dds	particles/fog_group.dds	sRGB=false
+particles/fragments.dds	particles/fragments.dds	sRGB=false
+particles/graylookuptable.dds	particles/graylookuptable.dds	sRGB=false
+particles/plume_2.dds	particles/plume_2.dds	sRGB=false
+particles/rainsplash.dds	particles/rainsplash.dds	sRGB=false
+particles/smoke.dds	particles/smoke.dds	sRGB=false
+particles/smoke_a.dds	particles/smoke_a.dds	sRGB=false
+prefabs/hydrogen.prefab	prefabs/hydrogen.prefab	
+textures/floor01_diff.tga	textures/floor01_diff.tga	sRGB=false
+snapshot.png	snapshot.png	sRGB=false

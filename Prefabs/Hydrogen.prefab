@@ -1,0 +1,41 @@
+<root>
+  <info createdby="vForge version 2013.2.0.1" />
+  <header version="0" name="" description="" category="" convertible="True" autosavebinary="False" relativefilenames="False" />
+  <thumbnail type="jpg" size="3526">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ACiiigAp0btHIrocMpBB96bRQ1ccZOLutGjsNMvFvLYP8okHDqOxq3XF2Ny1pcrKgzjgrnGR6V1Vlew3iZib5u6Nww/Cvncbg3RlzRXu/kfsnDXEdPMqKo15JVVp/i81590vXYtUUUVwH1gUUUUAFFFFABRRRQAVDdXEdrCZZjhR+ZPoKLq4jtYTLMcKPzJ9BXJ395Jezb5OFHCqOiiu3CYR4h3fwnzXEXEVPKafJDWq9l2835fn97I7md7id5ZMbmPOBUVFFfRpKKsj8WqVJVZuc3dvVvu2FFFFMgKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAp0btG4aNmVh0KnBptFDVxxk4u60aN6w1sEhLwAcf6xR/Mf4VtRSxyruidXXOMqc1w9PilkibdE7I2MZU4rzK+WQm703b8j7bK+N8Vhoqnil7Rd9pf5P8/M7iiuXi1u7RcN5chz1Zf8ADFSx69OHHmRRMvcLkH8+a4Hltddj6ynxtlc7Xclfutvuv+Fzo6KwG8QHadtsA2OCXz/Sqc+sXkucOsYIwQg/qeaIZbXlurf15DxHGuV0leEnP0TX/pVjqJZY4l3SuqLnGWOKyLzXET5bVd5/vNwPy6/yrBllklbdK7O2MZY5pld9HLIQ1qO/5HymZcc4qunDCR9mu+8v8l91/MnvLua7kDTNnHQDgCoKKK9GMVFWirI+LrVqlebqVZOUnu3qwoooqjIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q==</thumbnail>
+  <shape class="EntityShape">
+    <property name="ModelFile" value="Models/hydrogen.model" />
+    <property name="CustomMaterialSet" value="&lt;None&gt;" />
+    <property name="EntityClass" value="VisBaseEntity_cl" />
+    <property name="ClassDefinitionTemplate" value="" />
+    <property name="EntityPropertyString" value="" />
+    <property name="ScaleX" value="1" />
+    <property name="ScaleY" value="1" />
+    <property name="ScaleZ" value="1" />
+    <property name="UniformScaling" value="1" />
+    <property name="NavMeshUsage" value="IncludeInNavMesh" />
+    <property name="VisibleBitmask" value="4294967295" />
+    <property name="NearClipDistance" value="0" />
+    <property name="FarClipDistance" value="0" />
+    <property name="RenderOrderPriority" value="0" />
+    <property name="CastDynamicShadows" value="False" />
+    <property name="CastStaticShadows" value="False" />
+    <property name="LightInfluenceBitmask" value="1" />
+    <property name="AmbientColor" value="0,0,0,255" />
+    <property name="ShowLightgridWidget" value="False" />
+    <property name="SampleOfsX" value="0" />
+    <property name="SampleOfsY" value="0" />
+    <property name="SampleOfsZ" value="0" />
+    <property name="ObjectKey" value="H" />
+    <property name="Visible" value="True" />
+    <property name="Position" value="0,0,0" />
+    <property name="Orientation" value="0,0,0" />
+    <property name="Scaling" value="1,1,1" />
+    <property name="TextLabel" value="" />
+    <property name="ShapeName" value="hydrogen.model" />
+    <property name="UserDataString" value="" />
+    <property name="ExportShape" value="True" />
+    <property name="UniqueID" value="6825137988977033218" />
+    <component class="vHavokRigidBody" paramstring="ComponentID=;Shape_Type=Convex Hull;Shape_Radius=0;Shape_BoxSize=0,0,0;Shape_Height=0;Shape_PivotOffset=0,0,0;Shape_CenterOfMass=0,0,0;Havok_NoDeactivate=False;Havok_Mass=10;Havok_InertiaTensorComputeMode=Volume;Havok_SurfaceThickness=0.1;Havok_InertiaTensorAxisScaling=1,1,1;Havok_InertiaTensorScaling=1;Havok_Friction=0.5;Havok_Restitution=0.4;Havok_LinearDamping=0;Havok_AngularDamping=0.05;Havok_FileResourceName=;Debug_Render=False;Debug_Color=50,255,50,255;Havok_TakeRbDataFromFile=False;Havok_MotionType=Dynamic;Shape_PivotOffsetAutoAlign=True;Havok_CollisionLayer=1;Havok_CollisionGroup=0;Havok_SubSystemId=0;Havok_SubSystemDontCollideWith=0;Havok_QualityType=Auto;Havok_MaxKinematicVelocity=600;Havok_AlwaysInitAsDynamic=False;Havok_Active=True;Havok_WeldingType=None;Havok_TightFit=False;" visible="True" serializable="True" editable="True" removable="True" />
+    <component class="VScriptComponent" paramstring="ComponentID=;ScriptFile=atom-Attempt\092Scripts\092pickable.lua;" visible="True" serializable="True" editable="True" removable="True" />
+  </shape>
+</root>

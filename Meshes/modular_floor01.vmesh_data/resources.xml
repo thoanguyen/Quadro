@@ -1,0 +1,9 @@
+<root>
+    <Resources Version="1" Count="5" PathType="Project">
+        <Resource Manager="EffectLibs" Filename="Shaders\BaseShaders.ShaderLib" Size="63088" />
+        <Resource Manager="FILE" Filename="courseware_20130730/Meshes/modular_floor01.vmesh_data\materials.xml" OwnerRes="4" Size="488" />
+        <Resource Manager="Textures" Filename="courseware_20130730\Textures\floor01_diff.tga" CustomInt="1,64" Size="349524" />
+        <Resource Manager="EffectLibs" Filename="Shaders\vMaterial.ShaderLib" Size="392352" />
+        <Resource Manager="Static/Dynamic Meshes" Filename="courseware_20130730/Meshes/modular_floor01.vmesh" CustomInt="1,1" Size="56" />
+    </Resources>
+</root>

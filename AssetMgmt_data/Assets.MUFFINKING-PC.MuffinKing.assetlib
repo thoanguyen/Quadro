@@ -1,0 +1,788 @@
+{
+    "Configuration": {
+        "Name": "atom",
+        "FormatVersion": 2,
+        "LastEditTime": 1384047322467030600
+    },
+    "Assets": {
+        "atom-Attempt/Models/hydrogen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "atom-Attempt/Models/hydrogen.model_data/materials.xml",
+                    "atom-Attempt/Models/mainlens.dds",
+                    "atom-Attempt/plainwhite.dds",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384098578977714900,
+                "LastEditTime": 1384098596384465600
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "atom-Attempt/Models/MagicBall - Copy - Copy.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "atom-Attempt/Models/blubber.dds",
+                    "atom-Attempt/Models/mainlens.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384098578728114500,
+                "LastEditTime": 1384098596447469200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "atom-Attempt/Models/Oxygen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "atom-Attempt/Models/mainlens.dds",
+                    "atom-Attempt/Models/oxygen.model_data/materials.xml",
+                    "atom-Attempt/plainwhite.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384098578915314800,
+                "LastEditTime": 1384098596485470800
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "atom-Attempt/Prefabs/Hydrogen.prefab": {
+            "AssetType": "Prefab",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3399777214,
+                "TimeStamp": 1384098579586116000,
+                "LastEditTime": 1384098596515470900
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "atom-Attempt/Prefabs/Oxygen.prefab": {
+            "AssetType": "Prefab",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3091377916,
+                "TimeStamp": 1384098579632916100,
+                "LastEditTime": 1384098596515470900
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/modular_floor01.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 154228906,
+                "TimeStamp": 1384098569361549800,
+                "LastEditTime": 1384098596838477600
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/modular_floor01.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/modular_floor01.vmesh_data/materials.xml",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/floor01_diff.tga"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4084855577,
+                "TimeStamp": 1384098569379550800,
+                "LastEditTime": 1384098596838477600
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/modular_wall01.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3475838943,
+                "TimeStamp": 1384098571439668600,
+                "LastEditTime": 1384098596896480900
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/modular_wall01.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "../Textures/Dalek.png",
+                    "Meshes/modular_wall01.vmesh_data/materials.xml",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1760551104,
+                "TimeStamp": 1384098571442668800,
+                "LastEditTime": 1384098596896480900
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/multiuvstest.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/scribs.tga"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2132682449,
+                "TimeStamp": 1384098571484671200,
+                "LastEditTime": 1384098596941482900
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/rubblePile01.vcolmesh": {
+            "AssetType": "CollisionMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2753555574,
+                "TimeStamp": 1384098571491671600,
+                "LastEditTime": 1384098596991483000
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Meshes/rubblePile01.vmesh": {
+            "AssetType": "StaticMesh",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Meshes/rubblePile01.vmesh_data/materials.xml",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib",
+                    "Textures/Temple_Prop_Rubble_02_D.tga",
+                    "Textures/Temple_Prop_RubblePlanks_01_D.tga"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 895941368,
+                "TimeStamp": 1384098571498672000,
+                "LastEditTime": 1384098596991483000
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/hydrogen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/hydrogen.model_data/materials.xml",
+                    "Models/mainlens.dds",
+                    "plainwhite.dds",
+                    "Shaders/BaseShaders.ShaderLib",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384098574453707000,
+                "LastEditTime": 1384098596799475400
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/MagicBall - Copy - Copy.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/blubber.dds",
+                    "Models/mainlens.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384098574126106400,
+                "LastEditTime": 1384098596273463200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Oxygen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/mainlens.dds",
+                    "Models/oxygen.model_data/materials.xml",
+                    "noise_Normal.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384098574313306700,
+                "LastEditTime": 1384098596323463200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Bubble_1.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3236100827,
+                "TimeStamp": 1384098574890507800,
+                "LastEditTime": 1384098596525470900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Flare_1.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3947040657,
+                "TimeStamp": 1384098574984107900,
+                "LastEditTime": 1384098596545470900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Flare_4.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3402051952,
+                "TimeStamp": 1384098575030908000,
+                "LastEditTime": 1384098596565470900
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/FlareGroup.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4083271668,
+                "TimeStamp": 1384098574937307800,
+                "LastEditTime": 1384098596595471000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 256,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Fog_Group.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4062373857,
+                "TimeStamp": 1384098575093308100,
+                "LastEditTime": 1384098596629471200
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Fragments.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 3448276939,
+                "TimeStamp": 1382436930000000000,
+                "LastEditTime": 1384101702551568100
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/GrayLookupTable.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4076469953,
+                "TimeStamp": 1384098575140108200,
+                "LastEditTime": 1384098596647472300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 256,
+                "Height": 4,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Plume_2.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1889936403,
+                "TimeStamp": 1384098575202508300,
+                "LastEditTime": 1384098596677472300
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 128,
+                "Height": 128,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/RainSplash.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1055617482,
+                "TimeStamp": 1384098575249308400,
+                "LastEditTime": 1384098596699473000
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 64,
+                "Height": 32,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Smoke.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 2546377660,
+                "TimeStamp": 1384098575342908500,
+                "LastEditTime": 1384098596729474700
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Particles/Smoke_A.dds": {
+            "AssetType": "Texture",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 4103217712,
+                "TimeStamp": 1384098575420908700,
+                "LastEditTime": 1384098596769474800
+            },
+            "Texture": {
+                "FileFormat": "DDS",
+                "Width": 512,
+                "Height": 512,
+                "HasAlpha": true,
+                "sRGB": false
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Prefabs/Hydrogen.prefab": {
+            "AssetType": "Prefab",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1722903234,
+                "TimeStamp": 1384098576013709700,
+                "LastEditTime": 1384098596796475200
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        }
+    },
+    "TrackedFiles": {
+        "../Textures/Dalek.png": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384098596941482900
+        },
+        "atom-Attempt/plainwhite.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384083834439574700
+        },
+        "atom-Attempt/Models/blubber.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384083834369570700
+        },
+        "atom-Attempt/Models/mainlens.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384083834369570700
+        },
+        "atom-Attempt/Models/hydrogen.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384083380000000000,
+            "LastEditTime": 1384083833188503200
+        },
+        "atom-Attempt/Models/oxygen.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384083380000000000,
+            "LastEditTime": 1384083833188503200
+        },
+        "Meshes/modular_floor01.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384098571433668300,
+            "LastEditTime": 1384098596313463200
+        },
+        "Meshes/modular_wall01.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384098571480671000,
+            "LastEditTime": 1384098596313463200
+        },
+        "Meshes/rubblePile01.vmesh_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384098571504672400,
+            "LastEditTime": 1384098596313463200
+        },
+        "Models/mainlens.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384046050532700600
+        },
+        "Models/hydrogen.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384098574547307200,
+            "LastEditTime": 1384098596273463200
+        },
+        "Models/oxygen.model_data/materials.xml": {
+            "Hash": 0,
+            "TimeStamp": 1384098574718907500,
+            "LastEditTime": 1384098596313463200
+        },
+        "Textures/floor01_diff.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384098596895480900
+        },
+        "Textures/scribs.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384098596991483000
+        },
+        "Textures/Temple_Prop_Rubble_02_D.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384098597061483100
+        },
+        "Textures/Temple_Prop_RubblePlanks_01_D.tga": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384098597061483100
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<root>
+    <Resources Version="1" Count="5" PathType="Project">
+        <Resource Manager="FILE" Filename="Models/Oxygen.model_data\materials.xml" OwnerRes="4" Size="485" />
+        <Resource Manager="Textures" Filename="Models\mainlens.dds" CustomInt="1,0" Size="340" />
+        <Resource Manager="EffectLibs" Filename="Shaders\vMaterial.ShaderLib" Size="392352" />
+        <Resource Manager="Textures" Filename="noise_Normal.dds" CustomInt="1,64" Size="262144" />
+        <Resource Manager="Static/Dynamic Meshes" Filename="Models/Oxygen.model" CustomInt="1,2" Size="56" />
+    </Resources>
+</root>

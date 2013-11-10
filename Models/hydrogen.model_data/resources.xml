@@ -1,0 +1,10 @@
+<root>
+    <Resources Version="1" Count="6" PathType="Project">
+        <Resource Manager="FILE" Filename="Models/hydrogen.model_data\materials.xml" OwnerRes="4" Size="703" />
+        <Resource Manager="Textures" Filename="Models\mainlens.dds" CustomInt="1,0" Size="340" />
+        <Resource Manager="EffectLibs" Filename="Shaders\BaseShaders.ShaderLib" Size="63088" />
+        <Resource Manager="Textures" Filename="plainwhite.dds" CustomInt="1,64" Size="64" />
+        <Resource Manager="Static/Dynamic Meshes" Filename="Models/hydrogen.model" CustomInt="1,2" Size="56" />
+        <Resource Manager="EffectLibs" Filename="Shaders\vMaterial.ShaderLib" Size="392352" />
+    </Resources>
+</root>

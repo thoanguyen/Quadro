@@ -1,0 +1,87 @@
+{
+    "Configuration": {
+        "Name": "atom",
+        "FormatVersion": 2,
+        "LastEditTime": 1384047322467030600
+    },
+    "Assets": {
+        "Models/hydrogen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384048553118498600,
+                "LastEditTime": 1384061059815781700
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/MagicBall - Copy - Copy.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384048552724476100,
+                "LastEditTime": 1384061059816781800
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Oxygen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1384048553042494300,
+                "LastEditTime": 1384061065175088300
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        }
+    },
+    "TrackedFiles": {
+
+    }
+}

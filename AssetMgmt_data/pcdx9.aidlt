@@ -1,0 +1,13 @@
+models/hydrogen.model	Models/hydrogen.model	LODSwitchDistances=
+models/magicball - copy - copy.model	Models/MagicBall - Copy - Copy.model	LODSwitchDistances=
+models/oxygen.model	Models/Oxygen.model	LODSwitchDistances=
+particles/bubble_1.dds	AssetMgmt_data/transformed/bubble_1d1srvwdclgdtc.dds	sRGB=false
+particles/flare_1.dds	AssetMgmt_data/transformed/flare_1gqjshl4clgdtc.dds	sRGB=false
+particles/flare_4.dds	AssetMgmt_data/transformed/flare_4dpktkg0clgdtc.dds	sRGB=false
+particles/flaregroup.dds	AssetMgmt_data/transformed/flaregrouph6sg7zjclgdtc.dds	sRGB=false
+particles/fog_group.dds	AssetMgmt_data/transformed/fog_grouph48r7x4clgdtc.dds	sRGB=false
+particles/graylookuptable.dds	AssetMgmt_data/transformed/graylookuptableh5zhzs4clgdtc.dds	sRGB=false
+particles/plume_2.dds	AssetMgmt_data/transformed/plume_2719k42dclgdtc.dds	sRGB=false
+particles/rainsplash.dds	AssetMgmt_data/transformed/rainsplash3yvwkt8clgdtc.dds	sRGB=false
+particles/smoke.dds	AssetMgmt_data/transformed/smoke9hkp3rjclgdtc.dds	sRGB=false
+particles/smoke_a.dds	AssetMgmt_data/transformed/smoke_ah94k260clgdtc.dds	sRGB=false

@@ -1,0 +1,5 @@
+<root>
+    <MaterialTemplates>
+        <MaterialTemplate name="pcdx9" library="\Shaders\BaseShaders.ShaderLib" effect="BS_TintColor" paramstring="Color=0.08235294,0.003921569,0.4784314,1;" />
+    </MaterialTemplates>
+</root>

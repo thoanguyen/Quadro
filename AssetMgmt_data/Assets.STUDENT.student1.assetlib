@@ -1,0 +1,97 @@
+{
+    "Configuration": {
+        "Name": "Atom",
+        "FormatVersion": 2,
+        "LastEditTime": 1384040287574143100
+    },
+    "Assets": {
+        "Models/hydrogen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/blubber.dds",
+                    "Models/mainlens.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1382436942000000000,
+                "LastEditTime": 1384046072410724200
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/MagicBall - Copy - Copy.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/blubber.dds",
+                    "Models/mainlens.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1382436942000000000,
+                "LastEditTime": 1384046066028478100
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        },
+        "Models/Oxygen.model": {
+            "AssetType": "Model",
+            "Common": {
+                "Tags": "__NEW_ASSET__",
+                "Dependencies": [
+                    "Models/blubber.dds",
+                    "Models/mainlens.dds",
+                    "Shaders/vMaterial.ShaderLib"
+                ],
+                "Variants": [
+
+                ]
+            },
+            "File": {
+                "Hash": 1733256238,
+                "TimeStamp": 1382436942000000000,
+                "LastEditTime": 1384046055790371900
+            },
+            "Model": {
+                "LODSwitchDistances": [
+
+                ]
+            },
+            "Transformations": {
+                "TemplateName": "Default"
+            }
+        }
+    },
+    "TrackedFiles": {
+        "Models/mainlens.dds": {
+            "Hash": 0,
+            "TimeStamp": 0,
+            "LastEditTime": 1384046050532700600
+        }
+    }
+}
